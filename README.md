@@ -22,6 +22,11 @@ After installing run:
 ```
 systemctl restart usbtripwire
 ```
+### Thanks
+
+Thank you for your moral support [Defcon community](https://defcon.org/) and [DC7499](https://defcon.su/)
+
+
 
 ## RUS
 ### Для чего это?
@@ -44,3 +49,7 @@ chmod +x setup
 ```
 systemctl restart usbtripwire
 ```
+
+### Благодарность
+
+Спасибо за поральную поддержку [Defcon community](https://defcon.org/) и [DC7499](https://defcon.su/)
