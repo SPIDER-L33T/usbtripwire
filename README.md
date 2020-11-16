@@ -4,7 +4,7 @@ Small USB-based tripwire for your server/PC
 ## EN
 ### What is this for?
 1. "Weapon of the last chance". If the bandits torture you and ask for secret data from your computer, tell them to insert a "secret flash disk" into the computer. As soon as they insert the flash into the computer, the script that you have prepared in advance will be executed (for example: remove the hidden directory from the computer) and, if you specify the token in advance, a message will be sent via Telegram to your partner.
-2. "Ordinary stretching". Someone in your absence decided to connect some USB device to a computer or server (for example: to copy data). As soon as he does this, UsbTripwire will send you a notification in Telegram.
+2. "Ordinary tripwire". Someone in your absence decided to connect some USB device to a computer or server (for example: to copy data). As soon as he does this, UsbTripwire will send you a notification in Telegram.
 
 ### Install
 
@@ -52,4 +52,4 @@ systemctl restart usbtripwire
 
 ### Благодарность
 
-Спасибо за поральную поддержку [Defcon community](https://defcon.org/) и [DC7499](https://defcon.su/)
+Спасибо за моральную поддержку [Defcon community](https://defcon.org/) и [DC7499](https://defcon.su/)
